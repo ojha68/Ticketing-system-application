@@ -1,0 +1,38 @@
+D:\CW1\CW1\bin\Debug\CW1.exe.config
+D:\CW1\CW1\bin\Debug\CW1.exe
+D:\CW1\CW1\bin\Debug\CW1.pdb
+D:\CW1\CW1\obj\Debug\CW1.csproj.AssemblyReference.cache
+D:\CW1\CW1\obj\Debug\CW1.csproj.SuggestedBindingRedirects.cache
+D:\CW1\CW1\obj\Debug\CW1.Properties.Resources.resources
+D:\CW1\CW1\obj\Debug\CW1.csproj.GenerateResource.cache
+D:\CW1\CW1\obj\Debug\CW1.csproj.CoreCompileInputs.cache
+D:\CW1\CW1\obj\Debug\CW1.exe
+D:\CW1\CW1\obj\Debug\CW1.pdb
+D:\CW1\CW1\obj\Debug\CW1.AdminPanel.resources
+D:\CW1\CW1\obj\Debug\CW1.signIn.resources
+D:\CW1\CW1\obj\Debug\CW1.RegisterEmployee.resources
+D:\CW1\CW1\obj\Debug\CW1.ViewReport.resources
+D:\CW1\CW1\obj\Debug\CW1.SetPriceTicket.resources
+D:\CW1\CW1\obj\Debug\CW1.ViewChart.resources
+D:\CW1\CW1\obj\Debug\CW1.EmployeePanel.resources
+D:\CW1\CW1\obj\Debug\CW1.Checkin.resources
+D:\CW1\CW1\obj\Debug\CW1.Checkout.resources
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\bin\Debug\CW1.exe.config
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\bin\Debug\CW1.exe
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\bin\Debug\CW1.pdb
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.AdminPanel.resources
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.Checkin.resources
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.Checkout.resources
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.EmployeePanel.resources
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.RegisterEmployee.resources
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.SetPriceTicket.resources
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.signIn.resources
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.Properties.Resources.resources
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.ViewChart.resources
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.ViewReport.resources
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.exe
+C:\Users\user\Downloads\18029173 Aashish ojha (1)\18029173 Aashish ojha\CW1\CW1\obj\Debug\CW1.pdb
